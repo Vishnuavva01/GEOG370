@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ApartmentJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Union": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.054549009326379, 35.920722779009672 ], [ -79.054549009326379, 35.919345173770118 ], [ -79.052405031421529, 35.919345173770118 ], [ -79.052435228293433, 35.920739081886602 ], [ -79.052425162669465, 35.920714627569943 ], [ -79.054549009326379, 35.920722779009672 ] ] ] ] } }
+]
+}
