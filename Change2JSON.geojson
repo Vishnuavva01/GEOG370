@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Change2JSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Change 2": "New Houses" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -115.137622200565929, 36.114424432245634 ], [ -115.128332226860962, 36.114457652828165 ], [ -115.128277637080572, 36.107513086957916 ], [ -115.137264543956945, 36.107890582979259 ], [ -115.137622200565929, 36.114424432245634 ] ] ] ] } }
+]
+}
